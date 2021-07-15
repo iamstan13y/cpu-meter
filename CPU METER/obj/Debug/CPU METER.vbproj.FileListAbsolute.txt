@@ -1,0 +1,23 @@
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\bin\Debug\CPU METER.exe.config
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\bin\Debug\CPU METER.exe
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\bin\Debug\CPU METER.pdb
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\bin\Debug\CPU METER.xml
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\obj\Debug\CPU_METER.Resources.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\obj\Debug\CPU METER.vbproj.GenerateResource.Cache
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\obj\Debug\CPU METER.exe
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\obj\Debug\CPU METER.xml
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\obj\Debug\CPU METER.pdb
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\obj\Debug\CPU_METER.Main.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\bin\Debug\CPU METER.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\obj\Debug\CPU METER.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\obj\Debug\CPU METER.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\obj\Debug\CPU METER.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\bin\Debug\CPU METER.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\bin\Debug\CPU METER.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\bin\Debug\CPU METER.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\obj\Debug\CPU_METER.Main.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\obj\Debug\CPU_METER.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\obj\Debug\CPU METER.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\obj\Debug\CPU METER.vbprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\CPU METER\CPU METER\obj\Debug\CPU METER.vbproj.CopyComplete
